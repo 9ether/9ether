@@ -22,7 +22,7 @@
 - 🔭 <b>I’m currently working on:</b> Enhancing my cybersecurity skills and knowledge by taking online courses, reading blogs and articles, and participating in challenges and simulations. I’m also working on some personal projects using Python, Splunk, and AWS.
 
 - 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/gift-masango)
-📌 My Resume
+- 📌 <b>My Resume:</b> [Resume](https://github.com/9ether/9ether---Resume/blob/bd2baeb28964266c6cf6aa1384f7166965e24ee5/Mxolisi%20Masango%20REsume.pdf)
 Resume
 
 ## 📚 About Me:
