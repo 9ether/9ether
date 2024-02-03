@@ -23,7 +23,7 @@
 
 - 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/gift-masango)
 - 📌 <b>My Resume:</b> [Resume](https://github.com/9ether/9ether---Resume/blob/bd2baeb28964266c6cf6aa1384f7166965e24ee5/Mxolisi%20Masango%20REsume.pdf)
-Resume
+
 
 ## 📚 About Me:
 I’m a system engineer who loves to explore new technologies and solve problems. 
