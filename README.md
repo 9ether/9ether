@@ -1,5 +1,4 @@
 ### Hi there 👋
-!Linkedin Badge !Gmail Badge
 
 # 🛠️ Skills
 - **Core Competencies**: System Engineering, Linux Server, Cybersecurity, Cloud Computing, Data Protection, Splunk Security.
